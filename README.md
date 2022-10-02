@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Solution
 
-- Solution URL: [My solution (TBA)]()
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/stats-preview-card-aVzhIImtbf)
 
 
 ## Author
